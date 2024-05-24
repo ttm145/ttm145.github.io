@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /open_page.html
+Disallow: /closed_page.html
